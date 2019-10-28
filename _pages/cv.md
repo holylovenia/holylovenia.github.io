@@ -42,10 +42,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.research %}
+    {% include archive-single-research-cv.html %}
   {% endfor %}</ul>
   
 Teaching
