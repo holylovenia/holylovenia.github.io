@@ -19,6 +19,7 @@ status: 'Published'
 ## Link(s)
 
 - [ResearchGate](https://www.researchgate.net/publication/332753985_Speech_Artifact_Removal_from_EEG_Recordings_of_Spoken_Word_Production_with_Tensor_Decomposition)
+- [Poster](https://sigport.org/documents/speech-artifact-removal-eeg-recordings-spoken-word-production-tensor-decomposition)
 
 
 ## How to Cite
