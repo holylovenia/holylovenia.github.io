@@ -7,6 +7,7 @@ date: 2018-11-14
 excerpt: 'The document is only available in Indonesian.'
 paperurl: 'https://www.researchgate.net/publication/331589830_Deteksi_Pemalsuan_Gambar_dengan_ELA_dan_Deep_Learning'
 authors: 'Agus Gunawan, <b>Holy Lovenia</b>, Adrian Hartanto Pramudita'
+status: 'Technical report'
 ---
 
 ## Overview

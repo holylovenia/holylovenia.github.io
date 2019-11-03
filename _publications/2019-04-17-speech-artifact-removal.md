@@ -8,6 +8,7 @@ excerpt: ''
 venue: '2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'https://www.researchgate.net/publication/332753985_Speech_Artifact_Removal_from_EEG_Recordings_of_Spoken_Word_Production_with_Tensor_Decomposition'
 authors: '<b>Holy Lovenia</b>, Hiroki Tanaka, Sakriani Sakti, Ayu Purwarianti, and Satoshi Nakamura'
+status: 'Published'
 ---
 
 ## Abstract
