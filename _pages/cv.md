@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Informatics Department, Bandung Institute of Technology (ITB)[<sup>[wiki]</sup>](https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology)[<sup>[web]</sup>](https://www.itb.ac.id/), Indonesia, 2019
+* Bsc in Informatics Department, Bandung Institute of Technology (ITB)[<sup>[wiki]</sup>](https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology)[<sup>[web]</sup>](https://www.itb.ac.id/), Indonesia, 2019
 
 Experience
 ======
