@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF (Jan 7, 2020)](https://holylovenia.github.io/files/holy-resume.pdf)
+[PDF (Dec 14, 2020)](https://holylovenia.github.io/files/holy-resume.pdf)
 
 Education
 ======
