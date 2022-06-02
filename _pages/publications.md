@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: complete and up-to-date list of publications can be accessed [here](https://scholar.google.co.id/citations?user=bugb-lAAAAAJ&hl=en).
-years: [2019, 2021, 2022]
+description: complete and up-to-date list of publications can be accessed <a href="https://scholar.google.co.id/citations?user=bugb-lAAAAAJ&hl=en">here</a>.
+years: [2022, 2021, 2019]
 nav: true
 nav_order: 2
 ---
