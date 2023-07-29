@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: complete and up-to-date list of publications can be accessed via Google Scholar.
+description: Complete and up-to-date list of publications can be accessed via <a href="https://scholar.google.com/citations?user=bugb-lAAAAAJ" target="_blank">Google Scholar</a>.
 years: [2023, 2022, 2021, 2019]
 nav: true
 nav_order: 2
