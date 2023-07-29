@@ -22,7 +22,21 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">
+            {%- if entry.arxiv %}
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">{{entry.title}}</a>
+            {%- else -%}
+                {%- if entry.pdf -%}
+                  {%- if entry.pdf contains '://' -%}
+                  <a href="{{ entry.pdf }}">{{entry.title}}</a>
+                  {%- else -%}
+                  <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">{{entry.title}}</a>
+                  {%- endif %}
+                {%- else -%}
+                  {{entry.title}}
+                {%- endif -%}
+            {%- endif -%}
+          </div>
           <!-- Author -->
           <div class="author">
           {%- for author in entry.author_array -%}
