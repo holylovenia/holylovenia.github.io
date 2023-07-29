@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: complete and up-to-date list of publications can be accessed via Google Scholar.
 years: [2023, 2022, 2021, 2019]
 nav: true
