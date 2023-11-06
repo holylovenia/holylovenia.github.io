@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: The Hong Kong University of Science and Technology (HKUST)
+subtitle: Senior Research Engineer @ AISG
 
 profile:
   align: right
