@@ -18,7 +18,8 @@ I'm currently working as a Senior Research Engineer at [AI Singapore](https://ai
 
 #### Previously
 
-- I did my MPhil studies at [HKUST](https://hkust.edu.hk/) and worked on vision-language & NLP research as a part of [Centre for Artificial Intelligence Research (CAiRE)](https://pascale.home.ece.ust.hk/team.html). Concurrently, I also joined [IndoNLP](https://github.com/IndoNLP) and have been active in NLP research in Indonesian indigenous languages (e.g., NusaCrowd, NusaWrites, etc.) ever since.
+- I got my MPhil degree from [HKUST](https://hkust.edu.hk/). I worked on vision-language & NLP research as a part of [Centre for Artificial Intelligence Research (CAiRE)](https://pascale.home.ece.ust.hk/team.html) in 2021-2023.
+- Concurrently, I also joined [IndoNLP](https://github.com/IndoNLP) and have been active in NLP research in Indonesian indigenous languages (e.g., NusaCrowd, NusaWrites, etc.) since 2021.
 - Before coming to Hong Kong, I was first introduced to research in the summer of 2018, when I became a research intern in [AHC Lab](https://ahcweb01.naist.jp/en/) at [Nara Institute of Science and Technology (NAIST), Japan](http://www.naist.jp/en/), working on brain signal processing research.
 - The next year, I got my Bachelor's degree from the undergraduate program of Computer Science at [Bandung Institute of Technology (ITB), Indonesia](https://itb.ac.id/).
 - Then, from 2019 to 2021, I worked on various projects regarding NLP, speech synthesis, and paralinguistics with [Prosa.ai](https://prosa.ai/).
