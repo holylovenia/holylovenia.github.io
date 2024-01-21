@@ -35,7 +35,7 @@ As of now, I'm researching in the fields of multimodality (vision-language), mul
 
 --------
 
-<b>You can take a look at my resume [here](https://docs.google.com/document/d/e/2PACX-1vSs4CjiW0KRCA36m4_k3vFfwi3v_3h11_7IAetpNpyXZw_rBtG-y4H9cgbTZRqN0xd2FZbfFGHNPaMY/pub).</b>
+<b>You can take a look at my resume [here](https://docs.google.com/document/d/e/2PACX-1vRR8-swT0C9Hok9KdokQCh_nUl-8rwDtuEhga7N1QcGMecj8c1AIbOh7UpmM1HK-6YU5AI_pLqTogc3/pub).</b>
 
 If you are interested in a collaboration or a discussion, please feel free to reach out to me.
 
