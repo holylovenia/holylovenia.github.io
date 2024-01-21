@@ -6,18 +6,19 @@ inline: false
 ---
 Early November in 2023, we kickstarted [SEACrowd](https://github.com/SEACrowd), a community movement project aimed at centralizing and standardizing AI resources for Southeast Asian languages, cultures, and/or regions.
 
-**Why Is It Important?**
+### Why Is It Important?
+
 It is essential to greatly increase the accessibility of SEA datasets, promote research in SEA languages and cultures, as well as build more AI models that represent SEA.
 
-**Contributing to SEACrowd**
+### Contributing to SEACrowd
+
 *Everyone* can join and contribute to this initiative from 1 November 2023 to 31 March 2024, win some SWAG, and become a co-author of our upcoming paper. We aim to publish the results of our findings in AACL/EMNLP 2024.
 
-<br/>
-  <img src="https://github.com/holylovenia/holylovenia.github.io/blob/master/assets/img/seacrowd-intro-onepage.png?raw=true" alt="SEACrowd's one-page introduction" width="800"/>
+<img src="https://github.com/holylovenia/holylovenia.github.io/blob/master/assets/img/seacrowd-intro-onepage.png?raw=true" alt="SEACrowd's one-page introduction" width="800"/>
 
 This movement is co-initiated and maintained by a team of passionate researchers in SEA, low-resource, and/or underrepresented languages NLP.
 
-<ul id = "list">
+<ul id="list">
   <li><a href="https://holylovenia.github.io/" target="_blank"><b>Holy</b> Lovenia (AI Singapore)</a></li>
   <li><a href="https://samuelcahyawijaya.github.io/" target="_blank"><b>Samuel</b> Cahyawijaya (HKUST)</a></li>
   <li><a href="https://www.ruochenzhang.com/" target="_blank"><b>Ruochen</b> Zhang (Brown University)</a></li>
@@ -31,8 +32,7 @@ This movement is co-initiated and maintained by a team of passionate researchers
   <li><a href="linkedin.com/in/william-tjhi-353a0840/" target="_blank"><b>William</b> Tjhi (AI Singapore)</a></li>
 </ul>
 
-<br/>
-  <img src="https://github.com/holylovenia/holylovenia.github.io/blob/master/assets/img/seacrowd-initiators.png?raw=true" alt="SEACrowd's initiators" width="800/>
+<img src="https://github.com/holylovenia/holylovenia.github.io/blob/master/assets/img/seacrowd-initiators.png?raw=true" alt="SEACrowd's initiators" width="800"/>
 
 **More Details**
 
