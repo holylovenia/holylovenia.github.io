@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invited talks on SEA-LION & SEACrowd in IMDA Technical Sharing, KaniTamil24, and AWS Public Sector Partner Connect Singapore 2024
-date: 2024-01-01 00:00:00-0000
+date: 2024-03-10 00:00:00-0000
 inline: false
 ---
 
