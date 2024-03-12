@@ -45,9 +45,14 @@ Take a look at my post [here](https://holylovenia.github.io/news/seacrowd_launch
 
 ## What is SEA-LION?
 
-We built and released [SEA-LION (South East Asia in One Network)](https://aisingapore.org/aiproducts/sea-lion/) in November 2023, a family of LLMs that is specifically pre-trained and instruct-tuned for the Southeast Asian (SEA) region. Our SEA-LION is an open source model focused on SEA languages and cultures, and it will be made freely open and available to the general public for both research and commercial settings. We are working with many regional partners in the areas of data collaborations and use cases.
+We built and released [SEA-LION (South East Asia in One Network)](https://aisingapore.org/aiproducts/sea-lion/) in November 2023, a family of LLMs that is specifically pre-trained and instruct-tuned for the Southeast Asian (SEA) region. Our SEA-LION is an open-source model focused on SEA languages and cultures, and it will be made freely open and available to the general public for both research and commercial settings. We are working with many regional partners in the areas of data collaborations and use cases.
 
-More details on SEA-LION can be seen these articles: [first post with research/instruct-NC version](https://medium.com/@lt22202/the-sea-lion-southeast-asian-languages-in-one-network-family-of-open-source-large-language-models-90304d35cbf9), [follow-up with commercially-permissive instruction tuning](https://www.linkedin.com/pulse/update-better-sea-lion-7b-model-thats-leslie-teo-ufhnc/?trackingId=dphccrhURMKTx7Te%2Bxv0TQ%3D%3D), [press coverage 1](https://deeptechtimes.com/2024/02/05/singapore-leads-regional-llm-development-with-sea-lion/), [press coverage 2](https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model), etc.
+More details on SEA-LION can be seen in these articles:
+- [First post with research/instruct-NC version](https://medium.com/@lt22202/the-sea-lion-southeast-asian-languages-in-one-network-family-of-open-source-large-language-models-90304d35cbf9)
+- [Follow-up with commercially-permissive instruction tuning](https://www.linkedin.com/pulse/update-better-sea-lion-7b-model-thats-leslie-teo-ufhnc/?trackingId=dphccrhURMKTx7Te%2Bxv0TQ%3D%3D)
+- [Press coverage 1](https://deeptechtimes.com/2024/02/05/singapore-leads-regional-llm-development-with-sea-lion/)
+- [Press coverage 2](https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model)
+- and many others.
 
 ## SEA-LION Releases
 
