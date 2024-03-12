@@ -52,7 +52,7 @@ More details on SEA-LION can be seen in these articles:
 - [Follow-up with commercially-permissive instruction tuning](https://www.linkedin.com/pulse/update-better-sea-lion-7b-model-thats-leslie-teo-ufhnc/?trackingId=dphccrhURMKTx7Te%2Bxv0TQ%3D%3D)
 - [Press coverage 1](https://deeptechtimes.com/2024/02/05/singapore-leads-regional-llm-development-with-sea-lion/)
 - [Press coverage 2](https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model)
-- and many others.
+- and many others!
 
 ## SEA-LION Releases
 
