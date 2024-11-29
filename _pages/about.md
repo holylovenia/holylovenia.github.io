@@ -14,9 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently working as a Senior Research Engineer at [AI Singapore 🇸🇬](https://aisingapore.org/) in the field of multilingualism in Southeast Asian languages and for Southeast Asian regions.
+I'm currently working for [SEACrowd](https://seacrowd.github.io/), a non-profit community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 
 #### Previously
+
+- I was a Senior Research Engineer at [AI Singapore 🇸🇬](https://aisingapore.org/) in the field of multilingualism in Southeast Asian languages and for Southeast Asian regions.
 
 - 🎓 I got my MPhil degree from [The Hong Kong University of Science and Technology, Hong Kong 🇭🇰](https://hkust.edu.hk/). I worked on vision-language & NLP research as a part of the [Centre for Artificial Intelligence Research (CAiRE)](https://pascale.home.ece.ust.hk/team.html) in 2021-2023.
 
