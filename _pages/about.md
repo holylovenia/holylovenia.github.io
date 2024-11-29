@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Senior Research Engineer @ AISG</b>
+subtitle: <b>Lead @ SEACrowd</b>
 
 profile:
   align: right
